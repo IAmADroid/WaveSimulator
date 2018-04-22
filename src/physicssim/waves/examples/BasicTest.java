@@ -1,4 +1,4 @@
-package examples;
+package physicssim.waves.examples;
 
 public class BasicTest {
 
